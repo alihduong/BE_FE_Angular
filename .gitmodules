@@ -1,0 +1,3 @@
+[submodule "connect-backend-frontend"]
+	path = connect-backend-frontend
+	url = https://github.com/alihduong/BE_FE_Angular.git
